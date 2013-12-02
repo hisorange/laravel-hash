@@ -24,7 +24,7 @@ After the composer update replace the HashServiceProvider in your app.php:
 You can use personal configurations just publish the package's configuration files.
 
 ```
-php artisan config:publish hisorange/hash
+php artisan config:publish hisorange/laravel-hash
 ```
 
 In the configurations you can choose which algorithm to use, added salt length and the alphabet characters for the salting.
