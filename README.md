@@ -6,7 +6,7 @@ With this you don't need BCrypt support and even can choose which algorithm to u
 
 ```json
 "require": {
-	"hisorange/hash": "dev-master"
+	"hisorange/laravel-hash": "dev-master"
 }
 ```
 
