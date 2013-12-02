@@ -1,6 +1,6 @@
 ## Replace the BCrypt hashing with native PHP hashing algorithm for Laravel.
 
-With this you don't need BCrypt support and even can choose which algorithm to use with a single config setting.
+With this you don't need BCrypt support and even can choose which algorithm to use with a single config option.
 
 ##### Installation with composer:
 
