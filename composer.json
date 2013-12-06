@@ -1,7 +1,7 @@
 {
     "name": "hisorange/laravel-hash",
     "description": "Replace the BCrypt hashing with native PHP hashing algorithm for Laravel.",
-    "keywords": ["laravel", "hash", "hasher", "hashing"],
+    "keywords": ["laravel", "hash", "hasher", "hashing", "bcrypt"],
     "license": "MIT",
 
     "authors": [
